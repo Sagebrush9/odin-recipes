@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I will make a simple website that shows recipe's. this project will be a practice to familiarize git basics such as creating repository, cloning, commiting, and transfer it to github.
